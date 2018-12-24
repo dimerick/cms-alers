@@ -40,3 +40,9 @@ footer i{
 .space{
     height: 200px;
 }
+@media (min-width: 768px) {
+.oc-item img{
+  width: 40%!important;
+  margin: 0 auto;
+}
+}
